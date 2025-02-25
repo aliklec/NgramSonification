@@ -14,7 +14,9 @@ This is a sonification of the usage of words "Napster" and "Spotify" in books be
 
 ### Data after sound mapping
 <br /> 
-![midiplot](https://github.com/user-attachments/assets/e4f5ad70-62f5-4057-bef4-8162b1c1b0a3)
+
+![midiplot](https://github.com/user-attachments/assets/e7a6fc89-90d8-4be7-86e0-91d4fe90d47e)
+
 
 ## References
 - https://books.google.com/ngrams/
